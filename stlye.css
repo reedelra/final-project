@@ -1,3 +1,7 @@
 .center-text {
     text-align: center;
 }
+
+body {
+    background-image: url('/images/hyrule.jpg');
+}
