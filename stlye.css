@@ -92,3 +92,7 @@ text {
 body{
   background-image: url(/images/landscape.jpg);
 }
+
+h1 {
+  text-align: center;
+}
