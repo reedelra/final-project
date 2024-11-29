@@ -91,4 +91,5 @@ text {
 
 body{
   background-image: url(/images/landscape.jpg);
+  background-repeat: no-repeat;
 }
