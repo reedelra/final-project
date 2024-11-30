@@ -68,7 +68,7 @@ text {
 
 body{
   background-image: url(/images/landscape.jpg);
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
