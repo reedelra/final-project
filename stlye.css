@@ -6,27 +6,6 @@
     background-color: whitesmoke;
 }
 
-.off-screen-menu {
-  background-color: greenyellow;
-  height: 100vh;
-  width:100%;
-  max-width: 450px;
-  position: fixed;
-  top: 0;
-  right: -450px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  font-size: 3rem;
-  transition: .3s ease;
-}
-
-.off-screen-menu.active {
-  right: 0;
-}
-
 nav {
   padding: 1rem;
   display: flex;
