@@ -70,6 +70,7 @@ body{
   background-image: url(/images/landscape.jpg);
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 h1 {
