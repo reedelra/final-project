@@ -89,3 +89,10 @@ nav {
   position: static;
   top: 0;
 }
+
+.avatar-container {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 20px;
+}
