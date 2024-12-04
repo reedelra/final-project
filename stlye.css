@@ -95,4 +95,9 @@ nav {
   height: 150px;
   border-radius: 50%;
   margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
 }
